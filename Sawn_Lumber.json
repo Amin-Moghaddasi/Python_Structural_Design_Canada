@@ -1,0 +1,260 @@
+{
+  "D.Fir-L": [
+    {
+      "Grade": null,
+      "Ply": 2,
+      "Height": 140,
+      "M_r": 5.68,
+      "V_r": 18.7,
+      "Es_I": 217
+    },
+    {
+      "Grade": null,
+      "Ply": 2,
+      "Height": 184,
+      "M_r": 8.41,
+      "V_r": 21.0,
+      "Es_I": 493
+    },
+    {
+      "Grade": null,
+      "Ply": 2,
+      "Height": 235,
+      "M_r": 20.6,
+      "V_r": 24.6,
+      "Es_I": 1030
+    },
+    {
+      "Grade": null,
+      "Ply": 2,
+      "Height": 286,
+      "M_r": 16.9,
+      "V_r": 27.3,
+      "Es_I": 1850
+    },
+    {
+      "Grade": null,
+      "Ply": 3,
+      "Height": 140,
+      "M_r": 8.52,
+      "V_r": 28.0,
+      "Es_I": 326
+    },
+    {
+      "Grade": null,
+      "Ply": 3,
+      "Height": 184,
+      "M_r": 12.6,
+      "V_r": 31.6,
+      "Es_I": 740
+    },
+    {
+      "Grade": null,
+      "Ply": 3,
+      "Height": 235,
+      "M_r": 18.9,
+      "V_r": 37.0,
+      "Es_I": 1550
+    },
+    {
+      "Grade": null,
+      "Ply": 3,
+      "Height": 286,
+      "M_r": 25.4,
+      "V_r": 40.9,
+      "Es_I": 2780
+    },
+    {
+      "Grade": null,
+      "Ply": 4,
+      "Height": 140,
+      "M_r": 11.4,
+      "V_r": 37.4,
+      "Es_I": 434
+    },
+    {
+      "Grade": null,
+      "Ply": 4,
+      "Height": 184,
+      "M_r": 16.8,
+      "V_r": 42.1,
+      "Es_I": 9086
+    },
+    {
+      "Grade": null,
+      "Ply": 4,
+      "Height": 235,
+      "M_r": 25.1,
+      "V_r": 49.3,
+      "Es_I": 2060
+    },
+    {
+      "Grade": null,
+      "Ply": 4,
+      "Height": 286,
+      "M_r": 33.8,
+      "V_r": 54.5,
+      "Es_I": 3700
+    },
+    {
+      "Grade": null,
+      "Ply": 5,
+      "Height": 140,
+      "M_r": 14.2,
+      "V_r": 46.7,
+      "Es_I": 543
+    },
+    {
+      "Grade": null,
+      "Ply": 5,
+      "Height": 184,
+      "M_r": 21.0,
+      "V_r": 52.6,
+      "Es_I": 1230
+    },
+    {
+      "Grade": null,
+      "Ply": 5,
+      "Height": 235,
+      "M_r": 31.4,
+      "V_r": 61.6,
+      "Es_I": 2580
+    },
+    {
+      "Grade": null,
+      "Ply": 5,
+      "Height": 286,
+      "M_r": 42.3,
+      "V_r": 68.1,
+      "Es_I": 4630
+    },
+    {
+      "Grade": "No.1/No.2",
+      "Ply": 2,
+      "Height": 140,
+      "M_r":3.44,
+      "V_r":18.7,
+      "Es_I":191
+    },
+    {
+      "Grade": "No.1/No.2",
+      "Ply": 2,
+      "Height": 184,
+      "M_r":5.09,
+      "V_r":21.0,
+      "Es_I":434
+    },
+    {
+      "Grade": "No.1/No.2",
+      "Ply": 2,
+      "Height": 235,
+      "M_r":7.62,
+      "V_r":24.6,
+      "Es_I":904
+    },
+    {
+      "Grade": "No.1/No.2",
+      "Ply": 2,
+      "Height": 286,
+      "M_r":10.3,
+      "V_r":27.3,
+      "Es_I":1630
+    },
+    {
+      "Grade": "No.1/No.2",
+      "Ply": 3,
+      "Height": 140,
+      "M_r":5.16,
+      "V_r":28.0,
+      "Es_I":287
+    },
+    {
+      "Grade": "No.1/No.2",
+      "Ply": 3,
+      "Height": 184,
+      "M_r":7.64,
+      "V_r":31.6,
+      "Es_I":651
+    },
+    {
+      "Grade": "No.1/No.2",
+      "Ply": 3,
+      "Height": 235,
+      "M_r":11.4,
+      "V_r":37.0,
+      "Es_I":1360
+    },
+    {
+      "Grade": "No.1/No.2",
+      "Ply": 3,
+      "Height": 286,
+      "M_r":15.4,
+      "V_r":40.9,
+      "Es_I":2450
+    },
+    {
+      "Grade": "No.1/No.2",
+      "Ply": 4,
+      "Height": 140,
+      "M_r":6.88,
+      "V_r":37.4,
+      "Es_I":382
+    },
+    {
+      "Grade": "No.1/No.2",
+      "Ply": 4,
+      "Height": 184,
+      "M_r":10.2,
+      "V_r":42.1,
+      "Es_I":868
+    },
+    {
+      "Grade": "No.1/No.2",
+      "Ply": 4,
+      "Height": 235,
+      "M_r":15.2,
+      "V_r":49.3,
+      "Es_I":18.10
+    },
+    {
+      "Grade": "No.1/No.2",
+      "Ply": 4,
+      "Height": 286,
+      "M_r":20.5,
+      "V_r":54.5,
+      "Es_I":32.60
+    },
+    {
+      "Grade": "No.1/No.2",
+      "Ply": 5,
+      "Height": 140,
+      "M_r":8.60,
+      "V_r":46.7,
+      "Es_I":478
+    },
+    {
+      "Grade": "No.1/No.2",
+      "Ply": 5,
+      "Height": 184,
+      "M_r":12.7,
+      "V_r":52.6,
+      "Es_I":1080
+    },
+    {
+      "Grade": "No.1/No.2",
+      "Ply": 5,
+      "Height": 235,
+      "M_r":19.0,
+      "V_r":61.6,
+      "Es_I":2260
+    },
+    {
+      "Grade": "No.1/No.2",
+      "Ply": 5,
+      "Height": 286,
+      "M_r":25.6,
+      "V_r":68.1,
+      "Es_I":4080
+    }
+  ]
+}

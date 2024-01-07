@@ -1,0 +1,29 @@
+{
+  "Snow": [
+    {
+      "ULS":[
+      {
+        "Low":0.80,
+        "Normal":1.00 ,
+        "High": 1.15,
+        "Post_Disaster":1.25
+      }
+        ],
+      "SLS": [
+        {
+          "Low":0.90,
+          "Normal":0.90 ,
+          "High": 0.90,
+          "Post_Disaster":0.90
+        }
+      ],
+      "C_w": [
+        {
+          "Value_1": 1.00,
+          "Value_2": 0.75,
+          "Value_3": 0.50
+        }
+      ]
+    }
+  ]
+}
